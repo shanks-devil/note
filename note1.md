@@ -6,3 +6,5 @@
 
 ###### npm命令
 1. npm cache clean
+2. npm set registry=url
+3. npm publish --registry url
