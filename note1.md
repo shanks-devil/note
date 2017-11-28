@@ -9,3 +9,4 @@
 2. npm set registry=url
 3. npm publish --registry url
 4. npm adduser
+5. npm install xxx -f
