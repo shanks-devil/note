@@ -10,3 +10,6 @@
 3. npm publish --registry url
 4. npm adduser
 5. npm install xxx -f
+
+###### idea注册码
+http://idea.lanyus.com/
